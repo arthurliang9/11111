@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>推廣流感疫苗施打</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8sh+Wy2P1q6IXGnZlT4/AAcaj+g6bce5G5eDwD" crossorigin="anonymous">
+
+    <!-- Custom styles -->
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .landing-page {
+            text-align: center;
+            padding: 100px 20px;
+        }
+
+        .cta-btn {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="landing-page">
+        <h1 class="display-4">保護自己，保護他人</h1>
+        <p class="lead">施打流感疫苗，共同抵抗病毒</p>
+
+        <div class="cta-btn">
+            <a href="#registration" class="btn btn-primary btn-lg">立即預約</a>
+        </div>
+    </div>
+
+    <!-- Registration Section (You can customize this section based on your needs) -->
+    <section id="registration" class="container mt-5">
+        <h2 class="text-center mb-4">預約施打流感疫苗</h2>
+        <!-- Your registration form or additional information goes here -->
+    </section>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"
+        integrity="sha384-V8aPgyOQETYuGJ1iGOauPabV7PqIgu7rYKDU2F5FBuvMweqGuCyzKoyt3lgpx8CV"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8sh+Wy2P1q6IXGnZlT4/AAcaj+g6bce5G5eDwD"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
